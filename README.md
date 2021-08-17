@@ -5,7 +5,7 @@ Automatizando tarefa de criar uma tabela estruturada dentro do banco de dados my
 - Colocar em prática meus conhecimentos durante o curso de mysql e não deixar de lado um pouco da automação.
 
 ### COMO FUNCIONA O SCRIPT?
-- De forma simples e geral, com um banco de dados já criado, uma estrutura montada no bloco de dados, ele segue alguns passos sendo esse:
+- De forma simples e geral, com um banco de dados já criado, uma estrutura montada no bloco de notas, ele segue alguns passos sendo esse:
 
 - [1] - Entrar no banco de dados (cadastro)
 - [2] - Abrir o bloco de notas onde a estrutura já estava feita
