@@ -13,7 +13,7 @@ Automatizando tarefa de criar uma tabela estruturada dentro do banco de dados my
 - [4] - Adicionar os valores na tabela criada
 - [5] - Exibir a tabela com as informações já adicionada
 - [6] - Criar uma nova coluna
-- [7] - Adicionar novos valores juntos dessa nova coluna adiciona (Poderia ter feito de varias formas mas optei ir pela mais completa)
+- [7] - Adicionar novos valores juntos dessa nova coluna adicionada (Poderia ter feito de varias formas mas optei ir pela mais completa)
 - [8] - Exibir a tabela novamente
 - [9] - Modificar a coluna 'professor' para 'my' e salvar
 - [10] - Exibir na tela de novo a tabela
